@@ -1,4 +1,4 @@
 # NewGitPro
 Hi, my teacher is Jeeno. My Firstname Peerapon
-# NewGitPro Top im
-Hi, my teacher is Jeeno m m
+# NewGitPro Top
+Hi, my teacher is Jeeno
